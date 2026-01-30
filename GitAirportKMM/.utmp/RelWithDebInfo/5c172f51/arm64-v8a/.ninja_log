@@ -1,0 +1,23 @@
+# ninja log v5
+5	468	1764925246380475541	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d58632a0018a8335
+4	1150	1764925247063473124	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2af250631962a859
+468	727	1764925246622657791	/Users/choimarc/Kangmomo/GitAirportKMM/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5c172f51/obj/arm64-v8a/libswappywrapper.so	58ed3d5586b42a15
+4	1123	1764925247033430416	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	692c521a6db81325
+4	1136	1764925247047695374	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f49dab53fb824fe3
+3	1149	1764925247060981708	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	74abf76fc78f96fa
+3	1189	1764925247101763083	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	969b9d19f9a4e3d3
+4	1331	1764925247242262499	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	36ec9c3aae1959
+4	1229	1764925247141235708	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1d9fd6b32901b2aa
+3	1398	1764925247309285624	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7cf7750538ebcb4e
+1399	1517	1764925247432035874	/Users/choimarc/Kangmomo/GitAirportKMM/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5c172f51/obj/arm64-v8a/libgame.so	7fcc51afce740778
+6	394	1764925415709434791	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d58632a0018a8335
+395	654	1764925415951289624	/Users/choimarc/Kangmomo/GitAirportKMM/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5c172f51/obj/arm64-v8a/libswappywrapper.so	58ed3d5586b42a15
+4	1136	1764925416448021958	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	692c521a6db81325
+3	1145	1764925416457287916	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f49dab53fb824fe3
+3	1159	1764925416471515708	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	74abf76fc78f96fa
+5	1160	1764925416473598166	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2af250631962a859
+3	1196	1764925416508945374	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	969b9d19f9a4e3d3
+5	1238	1764925416549482958	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1d9fd6b32901b2aa
+4	1331	1764925416642283916	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	36ec9c3aae1959
+3	1392	1764925416704448541	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7cf7750538ebcb4e
+1392	1496	1764925416810447999	/Users/choimarc/Kangmomo/GitAirportKMM/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5c172f51/obj/arm64-v8a/libgame.so	7fcc51afce740778

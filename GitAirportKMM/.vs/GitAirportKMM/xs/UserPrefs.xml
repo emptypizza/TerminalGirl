@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8C5E9192-C2B8-3674-EBF9-3D5B490B396E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Item.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Item.cs" Line="205" Column="1" />
+      <File FileName="Assets/Scripts/player.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/GridHighlighter.cs" />
+      <File FileName="Assets/Scripts/Cell.cs" />
+      <File FileName="Assets/Scripts/ItemSpawner_Grid.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitAirportKMM">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Item.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e30403f2-0776-4e11-98dd-681a820befcc" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

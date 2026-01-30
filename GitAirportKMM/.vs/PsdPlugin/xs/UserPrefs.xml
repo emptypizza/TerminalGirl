@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9E4D779B-6613-0B7C-66DD-533AC4F4EF8B}|">
+  <MonoDevelop.Ide.ItemProperties.PsdPlugin PreferredExecutionTarget="dc32f5c2-4fbd-4234-86bb-b9fdf4bc87af" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/player.cs" Line="178" Column="1" />
+      <File FileName="../../sourcebackup/Airgirlmomo_260119/Assets/Scripts/UIManager.cs" Line="35" Column="29" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="264" Column="12" />
+      <File FileName="Assets/Scripts/ItemSpawner_Grid.cs" />
+      <File FileName="Assets/Scripts/NPCAI.cs" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" />
+      <File FileName="Packages/packages-lock.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PsdPlugin">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="player.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
