@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/game.unity
     guid: f8ed174c893374817bf1dcb10ef6ec6b
-  - enabled: 1
-    path: Assets/Scenes/lobby.unity
-    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   m_configObjects:
     com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 4138b69c593384c79b4168e861f217db, type: 2}
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: c3dc7999f75124b85acc3206b6da3bac, type: 2}
